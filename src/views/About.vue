@@ -3,7 +3,7 @@
     <h1>This is an about page</h1>
     <!-- {{ $route.query }} -->
     <!-- <timeline></timeline> -->
-    <button @click="toHome">asdasd</button>
+    <button @click="toHome">跳转home</button>
   </div>
 </template>
 

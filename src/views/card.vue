@@ -1,7 +1,7 @@
 <template>
   <div>
     <slot>
-      我是大筛吧
+      card子组件
     </slot>
   </div>
 </template>
